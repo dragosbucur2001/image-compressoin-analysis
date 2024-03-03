@@ -1,0 +1,14 @@
+bmp_images/*
+!bmp_images/.temp
+
+compressed_images/*
+!compressed_images/.temp
+
+decompressed_images/*
+!decompressed_images/.temp
+
+png_images/*
+!png_images/.temp
+
+.env
+
